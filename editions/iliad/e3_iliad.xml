@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Sara Heridia</editor>
+        <editor>Rose Bugel-Shunra</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -18,8 +18,14 @@
   </teiHeader>
   <text>
     <body>
-      <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+      <div n="10">
+        <l n="147">βουλὰς βουλεύειν ἢ φευγέμεν ἠὲ μάχεσθαι-</l>
+        <l n="148">ὣς φάθ᾽- ὁ δὲ\ κλισίην δε κιὼν πολύμητις Ὀδυσσεὺς,</l>
+        <l n="149">ποικίλον ἀμφ᾽ ὤμοισι σάκος θέτο- βῆ δὲ μετ᾽ αὐτούς-</l>
+        <l n="150">βὰν δ᾽ ἐπὶ Τυδείδην Διομήδεα- τὸν δ' ἐκίχανον</l>
+        <l n="151">ἐκτὸς ἀπὸ κλισίης σὺν τεύχεσιν- ἀμφὶ δ᾽ ἑταῖροι</l>
+        <l n="152">εὗδον- ὑπὸ κρασὶν δ᾽ ἔχον ἀσπίδας- ἔγχεα δέ σφιν</l>
+
       </div>
     </body>
   </text>
