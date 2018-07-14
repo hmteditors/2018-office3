@@ -5,6 +5,7 @@
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
                 <author>YOUR NAME HERE</author>
+
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -21,13 +22,16 @@
 
                     <div n="127v_1" type="scholion">
                         <div n="lemma">
-                            <p></p>
+                            <p><num>α</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.149</p>
                         </div>
                         <div n="comment">
-                            <p>text of scholion goes here</p>
+                            <p>δειλὸς φασὶν ὁῦτοσ. ὅτι ἀσπιδα καὶ δόρυ ἀναλαμβανε·
+                              ἴσωσ δὲ σιωπωμένηι τῆι ἀπωκρισει χρῆται πρὸς <persName n="urn:cite2:hmt:pers.v1:pers117">τὸν Νέστορα</persName> ἐιπόντα βουλέυεσθαι·
+                              πότερον φευκτέα. ἢ μενετεα· ἐμφαίνων δὶα τῆς ἀσπίδασ.
+                              ὁ τι μενητέα. δόρυ μὲν φέρουσι καὶ μὴ μαχόμενοι · ἀσπὶς δὲ μενόντων ἐστὶ καὶ μαχομένων</p>
                         </div>
                     </div>
 
