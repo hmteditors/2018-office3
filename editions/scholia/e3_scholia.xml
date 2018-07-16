@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Sara Heridia</author>
+                <author>Rose Bugel-Shunra</author>
 
             </titleStmt>
             <publicationStmt>
@@ -31,8 +32,46 @@
                             <p>δειλὸς φασὶν ὁῦτοσ. ὅτι ἀσπιδα καὶ δόρυ ἀναλαμβανε·
                               ἴσωσ δὲ σιωπωμένηι τῆι ἀπωκρισει χρῆται πρὸς <persName n="urn:cite2:hmt:pers.v1:pers117">τὸν Νέστορα</persName> ἐιπόντα βουλέυεσθαι·
                               πότερον φευκτέα. ἢ μενετεα· ἐμφαίνων δὶα τῆς ἀσπίδασ.
-                              ὁ τι μενητέα. δόρυ μὲν φέρουσι καὶ μὴ μαχόμενοι · ἀσπὶς δὲ μενόντων ἐστὶ καὶ μαχομένων</p>
+                              ὁ τι μενητέα. δόρυ μὲν φέρουσι καὶ μὴ μαχόμενοι · ἀσπὶς δὲ μενόντων ἐστὶ καὶ μαχομένων⁑</p>
                         </div>
+                    </div>
+                    <div type="scholion" n="127v_2">
+                      <div n="lemma">
+                        <p><num>β</num></p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.151</p>
+                      </div>
+                      <div n="comment">
+                        <p>οὐχ‘ ὡπλισμένος· δειλοῦ γὰρ. ἀλλ' οἷον πλησίον ἔχων τὰ τεύχη· στρατηγικὸν δὲ καὶ τὸ θριοκοιτεῖν⁑</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="127v_3">
+                      <div n="lemma">
+                        <p><num>γ</num>r"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.ε3:153</p>
+                      </div>
+                      <div n="comment">
+                        <p>τρόπον τινὰ περιχαρακοῦντα τὸν ἡγεμόνα· ἐμφαίνε δὲ καὶ διὰ τούτου ὁ ποιητης.
+                           τὸ τὸ ἀνδρεῖον <persName>Διομήδους</persName> καὶ ἕτοιμον εἰς μάχην·
+                         στρατιωτικῶς δὲ τοῖς αὐτοῖς ὅπλοις χρῶνται, καὶ πρὸς πόνον καὶ ἀνάπαυλαν·
+                         τῶι δὲ σκιάζοντι τῆς νυκτὸς. ἀντι περιεστησε τὴν ἐκ τῶν  ἀιχμῶν ἀν ἀναλάμπουσαν αὐγήν·
+                          σαυρωτὴρ δὲ ἡ δορατοδόκη καλεῖται· παρὰ δέ τισιν ὁ καυλὸς τοῦ δόρατος⁑
+</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
                     </div>
 
                 </body>
