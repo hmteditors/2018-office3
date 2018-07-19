@@ -23,21 +23,21 @@
 
                     <div n="127v_1" type="scholion">
                         <div n="lemma">
-                            <p><num>α</num></p>
+                            <p><num value="1">α</num></p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.149</p>
                         </div>
                         <div n="comment">
-                            <p>δειλὸς φασὶν ὁῦτοσ. ὅτι ἀσπιδα καὶ δόρυ ἀναλαμβανε-
-                              ἴσωσ δὲ σιωπωμένηι τῆι ἀπωκρισει χρῆται πρὸς <persName n="urn:cite2:hmt:pers.v1:pers117">τὸν Νέστορα</persName> ἐιπόντα βουλέυεσθαι-
-                              πότερον φευκτέα. ἢ μενετεα- ἐμφαίνων δὶα τῆς ἀσπίδασ.
-                              ὁ τι μενητέα. δόρυ μὲν φέρουσι καὶ μὴ μαχόμενοι - ἀσπὶς δὲ μενόντων ἐστὶ καὶ μαχομένων⁑</p>
+                            <p>δειλὸς φασὶν ὁῦτοσ. ὅτι ἀσπιδα καὶ δόρυ ἀναλαμβανει-
+                              ἴσωσ δὲ σιωπωμένηι τῆι ἀπωκρίσει χρῆται πρὸς τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> ἐιπόντα βουλέυεσθαι-
+                              πότερον φευκτέα. ἢ μενετέα- ἐμφαίνων διὰ τῆς ἀσπίδασ.
+                              ὄ τι μενητέα. δόρυ μὲν φέρουσι καὶ μὴ μαχόμενοι - ἀσπὶς δὲ μενόντων ἐστὶ καὶ μαχομένων⁑</p>
                         </div>
                     </div>
                     <div type="scholion" n="127v_2">
                       <div n="lemma">
-                        <p><num>β</num></p>
+                        <p><num value="2">β</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.151</p>
@@ -48,23 +48,23 @@
                     </div>
                     <div type="scholion" n="127v_3">
                       <div n="lemma">
-                        <p><num>γ</num></p>
+                        <p><num value="3">γ</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.ε3:153</p>
                       </div>
                       <div n="comment">
-                        <p>τρόπον τινὰ περιχαρακοῦντα τὸν ἡγεμόνα- ἐμφαίνε δὲ καὶ διὰ τούτου ὁ ποιητης.
+                        <p>τρόπον τινὰ περιχαρακοῦντα τὸν ἡγεμόνα- ἐμφαίνει δὲ καὶ διὰ τούτου ὁ ποιητὴς.
                           τὸ ἀνδρεῖον <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδους</persName> καὶ ἕτοιμον εἰς μάχην-
                          στρατιωτικῶς δὲ τοῖς αὐτοῖς ὅπλοις χρῶνται, καὶ πρὸς πόνον καὶ ἀνάπαυλαν-
-                         τῶι δὲ σκιάζοντι τῆς νυκτὸς. ἀντιπεριεστησε τὴν ἐκ τῶν  ἀιχμῶν ἀναλάμπουσαν αὐγήν-
+                         τῶι δὲ σκιάζοντι τῆς νυκτὸς. ἀντιπερίεστησε τὴν ἐκ τῶν  ἀιχμῶν ἀναλάμπουσαν αὐγήν-
                           σαυρωτὴρ δὲ ἡ δορατοδόκη καλεῖται- παρὰ δέ τισιν ὁ καυλὸς τοῦ δόρατος⁑
 </p>
                       </div>
                     </div>
                     <div type="scholion" n="127v_4">
                       <div n="lemma">
-                        <p><num>δ</num></p>
+                        <p><num value="4">δ</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.e3:156</p>
@@ -77,7 +77,7 @@
                     </div>
                     <div type="scholion" n="127v_5">
                       <div n="lemma">
-                        <p>ε</p>
+                        <p><num value="5">ε</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.10:158</p>
@@ -90,7 +90,7 @@
                     </div>
                     <div type="scholion" n="127v_6">
                       <div n="lemma">
-                        <p><num>ϛ</num></p>
+                        <p><num value="6">ϛ</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.10:160</p>
@@ -104,7 +104,7 @@
                     </div>
                     <div type="scholion" n="127v_7">
                       <div n="lemma">
-                        <p>ζ</p>
+                        <p><num value="7">ζ</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.10:164</p>
@@ -121,7 +121,7 @@
                     </div>
                     <div type="scholion" n="127v_8">
                       <div n="lemma">
-                        <p>η</p>
+                        <p><num value="8">η</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.10:167</p>
@@ -132,7 +132,7 @@
                     </div>
                     <div type="scholion" n="127v_9">
                       <div n="lemma">
-                        <p>θ</p>
+                        <p><num value="9">θ</num></p>
                       </div>
                       <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.10.169</p>
